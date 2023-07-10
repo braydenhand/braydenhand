@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying computer science at Duke University<br>🤝 I’m looking for a 2023 summer internship as a SWE<br>🌱 I’m currently building a data science tool with Spotify API<br>💬 Ask me about my projects in IOT Tech, internal tools,  and mesh networking<br>⚡ Interests: Coffee, Crypto/DeFi, Hiking, Spirituality, AI, Guitar, Gaming
+🔭 I’m currently studying computer science at Duke University<br>🤝 I’m looking for a 2024 summer internship as a SWE<br>🌱 I’m currently building a data science tool with Spotify API<br>💬 Ask me about my projects in IOT Tech, internal tools,  and mesh networking<br>⚡ Interests: Coffee, Crypto/DeFi, Hiking, Spirituality, AI, Guitar, Gaming
 
 
 ## 🌐 Socials:
