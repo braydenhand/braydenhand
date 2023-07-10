@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying computer science at Duke University<br>🤝 I’m looking for a 2024 summer internship as a SWE<br>🌱 I’m currently building a data science tool with Spotify API<br>💬 Ask me about my projects in IOT Tech, internal tools,  and mesh networking<br>⚡ Interests: Coffee, Crypto/DeFi, Hiking, Spirituality, AI, Guitar, Gaming
 
+[Resume_2023.pdf](https://github.com/braydenhand/braydenhand/files/12004045/Resume_2023.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bkhand) 
