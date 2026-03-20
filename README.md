@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently studying computer science at Duke University<br>🤝 I’m looking for a 2025 full time SWE role<br>🌱 I’m currently building a data science tool with Spotify API<br>💬 Ask me about my projects in IOT Tech, internal tools,  and mesh networking<br>⚡ Interests: Coffee, Crypto/DeFi, Hiking, Spirituality, AI, Guitar, Gaming
+🔭 I'm currently working as a Machine Learning Engineer at **Capital One**<br>
+🤝 I'm building agentic AI systems and teaching workshops on LLMs, RAG, and fine-tuning<br>
+🌱 I recently shipped [what-i-pay.vercel.app](https://what-i-pay.vercel.app) — see where your tax dollars go<br>
+💬 Ask me about multi-agent systems, agentic AI, and full-stack ML apps<br>
+⚡ Interests: Coffee, Crypto/DeFi, Hiking, Spirituality, AI, Guitar, Gaming
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bkhand) 
